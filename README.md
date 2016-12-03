@@ -10,9 +10,9 @@ Dans la vraie vie, les transactions en ligne sont chères, et c'est un problème
 En effet, pour des transactions au montant très faible, dans certaines conditions, les frais bancaires peuvent excéder le montant de la commande. Ca coûte donc de l'argent de faire des ventes, dans le cas de montants inférieurs à un certain plancher (facile à calculer).
 
 On a besoin d'identifier les clients qui ont l'habitude de faire des micro-achats, pour le cas échéant :
-1. trouver des moyens rentables d'accepter les micro paiements
-2. repackager les produits responsables, pour les inclure dans un ticket de montant supérieur
-3. (la méthode préférée) analyser le comportement du client pour lui proposer des biens et services ciblés et aisni faire naturellement monter le montant de ses commandes
+1.  trouver des moyens rentables d'accepter les micro paiements
+2.  repackager les produits responsables, pour les inclure dans un ticket de montant supérieur
+3.  (la méthode préférée) analyser le comportement du client pour lui proposer des biens et services ciblés et aisni faire naturellement monter le montant de ses commandes
 
 ---
 
