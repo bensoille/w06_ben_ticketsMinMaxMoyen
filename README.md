@@ -62,6 +62,10 @@ L'affichage de ces valeurs globales pourrait consister en des div masqués, qu'o
 Faites les modifications nécessaires pour permettre la construction dynamique de la table html :
 On veut pouvoir envoyer le nombre de champs qu'on veut, et que la table se construise en fonction ; **le nombre de colonnes peut varier**
 
+### Exercice 6 ###
+Ajoutez un champ pour saisir la valeur minimum à laquelle les lignes sont colorées en rouge (cf. exercice 1)    
+Eventuellement, mettez en place un slider (genre potar linéaire) pour régler la valeur.
+L'interface doit réagir sur l'évènement "change" du champ de saisie
 
 
 # Et comme dit mon épouse : "Merguez dans le master !!" #
