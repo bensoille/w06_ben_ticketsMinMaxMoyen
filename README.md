@@ -40,5 +40,10 @@ Puis, ajoutez un bouton "moyenne globale" qui affiche la moyenne des montants vu
 Hint :
 L'affichage de ces valeurs globales pourrait consister en des div masqués, qu'on pourrait afficher avec un effet de fondu, et dans lesquels on pourrait coller les valeurs globales par un `document.getElementById().innerHTML = 'valeur`
 
+### Exercice 5 ###
+Faites les modifications nécessaires pour permettre la construction dynamique de la table html :
+On veut pouvoir envoyer le nombre de champs qu'on veut, et que la table se construise en fonction ; **le nombre de colonnes peut varier**
+
+
 
 # Et comme dit mon épouse : "Merguez dans le master !!" #
