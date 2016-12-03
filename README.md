@@ -5,6 +5,11 @@
 
 ---
 
+Dans la vraie vie, les transactions en ligne sont chères, et c'est un problème récurrent que devoir trouver des solutions pour rester rentables en acceptant des micro paiements.
+En effet, pour des transactions au montant très faible, dans certaines conditions, les frais bancaires peuvent excéder le montant de la commande. Ca coûte donc de l'argent dans le cas de montants inférieurs à un seuil (facile à calculer).
+
+---
+
 ## Exercices ##
 
 Pour faire ces exercices, **faites un fork de ce dépôt**, et réalisez votre boulot dans vos branches, dans votre fork.
