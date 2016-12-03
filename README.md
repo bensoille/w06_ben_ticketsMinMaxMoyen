@@ -51,7 +51,7 @@ C'est à dire pour TOUS les clients
 Puis, ajoutez un bouton "moyenne globale" qui affiche la moyenne des montants vus, pour TOUS les clients
 
 Hint :    
-L'affichage de ces valeurs globales pourrait consister en des div masqués, qu'on pourrait afficher avec un effet de fondu, et dans lesquels on pourrait coller les valeurs globales par un `document.getElementById().innerHTML = 'valeur`
+L'affichage de ces valeurs globales pourrait consister en des div masqués, qu'on pourrait afficher avec un effet de fondu, et dans lesquels on pourrait coller les valeurs globales par un `document.getElementById().innerHTML = 'valeur'`
 
 ### Exercice 5 ###
 Faites les modifications nécessaires pour permettre la construction dynamique de la table html :
